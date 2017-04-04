@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Imunity_Autorun - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Imunity_Autorun.res" /d "_DEBUG" /d "_AFXDLL" "D:\GIT_PROJECT\C\Imunity_Autorun\Imunity_Autorun.rc"" 
+Creating temporary file "C:\Users\b\AppData\Local\Temp\RSPD06.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Imunity_Autorun.pdb" /debug /machine:I386 /out:"Debug/Imunity_Autorun.exe" /pdbtype:sept 
+.\Debug\Imunity_Autorun.obj
+.\Debug\Imunity_AutorunDlg.obj
+.\Debug\StdAfx.obj
+.\Debug\Imunity_Autorun.res
+]
+Creating command line "link.exe @C:\Users\b\AppData\Local\Temp\RSPD06.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Imunity_Autorun.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
